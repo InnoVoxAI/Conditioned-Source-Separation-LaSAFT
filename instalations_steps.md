@@ -2,7 +2,7 @@
 https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
 
 ## Instalar ambiente LaSAFT
-https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
+conda env create -f lasaft_env_gpu.yaml -n lasaft
 
 ## Ativar conda LaSAFT
 conda activate lasaft
